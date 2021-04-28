@@ -1,6 +1,8 @@
 # Workshop-Airflow
 Esse repositório contem os códigos utilizados no Workshop de Airflow
 
+Link para a apresentação: https://docs.google.com/presentation/d/17Kc2dDkoOQBKMZCemjP6PEmT1I7a8dhIMspLXLjfROg/edit#slide=id.g7a1bccaf72_0_90
+
 Estrutura do diretório
 ```bash
 ├── data
@@ -49,3 +51,5 @@ Estrutura do diretório
 
 ### DAG de predição
 ![What is this](images/prediction.png "Dag de predição")
+
+Como instalar o airflow na sua máquina: https://medium.com/data-hackers/primeiros-passos-com-o-apache-airflow-etl-f%C3%A1cil-robusto-e-de-baixo-custo-f80db989edae
